@@ -19,7 +19,7 @@ int x=xa, y=xb;
 
 int count=0;
 
-while(count<777777)
+while(count<111111)
 {
      int what=new Random().Next(0,3);    //   [0;3)  0  1  2
      if(what==0)
