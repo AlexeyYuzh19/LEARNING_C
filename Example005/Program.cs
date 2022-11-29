@@ -3,7 +3,7 @@ string username = Console.ReadLine();
 
 if(username.ToLower() == "маша")
 {
-      Console.WriteLine("Ооо... это же сама МАРИЯ ВЕЛИКАЯ! Низкий Вам поклон и глубокая признательность за уделенное внимание!");
+      Console.WriteLine("Ооо... это же сама МАРИЯ ВЕЛИКАЯ! Низкий Вам поклон и глубокая признательность за уделенное внимание!\n");
 }
 else
 {
@@ -18,9 +18,9 @@ Console.Clear();
 //Console.SetCursorPosition(10, 4);
 //Console.WriteLine("+");
 
-int xa=35, ya=1,
-    xb=1, yb=25,
-    xc=70, yc=25;
+int xa=45, ya=1,
+    xb=1, yb=30,
+    xc=90, yc=30;
 
 Console.SetCursorPosition(xa,ya);
 Console.WriteLine("+");
@@ -61,4 +61,9 @@ while(count<namber)
      count++;
 }
 
-Console.Write("БЛАГОДАРЮ ЗА ВНИМАНИЕ!");
+int a=35, b=31 ;
+Console.SetCursorPosition(a,b);
+Console.WriteLine("+");
+
+Console.Write(" ЭТА ЗАМЕЧАТЕЛЬНАЯ   КАРТИНКА  ДЛЯ  ВАС \n БЛАГОДАРЮ  ЗА  ВНИМАНИЕ !\n\n");
+
