@@ -1,10 +1,11 @@
 ﻿Console.Write("Приветствую Вас, введите Ваше имя :");
 string username = Console.ReadLine();
+
 Console.Write("Привет, "); 
 Console.WriteLine(username);
 
 Console.Write("Введите расстояние между мальчиками (в метрах) :");
-double distanse = Convert.ToInt32(Console.ReadLine());
+double distanse = Convert.ToInt64(Console.ReadLine());
 
 Console.Write("С какой скоростью идет первый мальчик? :");
 double ferst_frend_speed = Convert.ToInt32(Console.ReadLine());
@@ -28,14 +29,15 @@ while(distanse > distanse_min)
     {
       double time = distanse/(ferst_frend_speed + dog_speed);
       frend = 2;
+      distanse = distanse - time*(ferst_frend_speed+second_frend_speed);     
     }
     else
     {
       double time = distanse/(second_frend_speed + dog_speed);
-      frend = 1;    
+      frend = 1;
+       distanse = distanse - time*(ferst_frend_speed+second_frend_speed);          
     }  
-    distanse = distanse-(ferst_frend_speed+second_frend_speed)*time;
-    count++;
+       count++;
 } 
 
 Console.Write("Собака пробежит между мальчиками ");
