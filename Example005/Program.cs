@@ -12,7 +12,7 @@ else
 }
 
 Console.Write("Введите целое число от 99 до 99999 :");
-int namber = Console.ReadLine();
+int namber = Convert.ToInt32(Console.ReadLine());
 
 Console.Clear();
 //Console.SetCursorPosition(10, 4);
