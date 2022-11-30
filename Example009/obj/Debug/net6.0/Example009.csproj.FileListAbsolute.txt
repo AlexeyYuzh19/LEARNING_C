@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\Example009.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\Example009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\Example009.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\Example009.AssemblyInfo.cs
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\Example009.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\bin\Debug\net6.0\Example009.exe
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\bin\Debug\net6.0\Example009.deps.json
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\bin\Debug\net6.0\Example009.runtimeconfig.json
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\bin\Debug\net6.0\Example009.dll
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\bin\Debug\net6.0\Example009.pdb
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\Example009.dll
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\refint\Example009.dll
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\Example009.pdb
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\Example009.genruntimeconfig.cache
+C:\Users\1\Desktop\Обучение ИТ\Введение в программирование C#\LESSONS\Example009\obj\Debug\net6.0\ref\Example009.dll
